@@ -154,7 +154,7 @@ function Login({ children, onBack }: Props) {
         <BackButton onBack={onBack} config={config} />
         <ChangeLanguage locale={detectLanguage()} />
         <Centered>
-          <PageTitle title={t("Custom Domain Setup")} />
+          <PageTitle title={t("Custom domain setup")} />
           <Heading centered>{t("Almost there")}…</Heading>
           <Note>
             {t(
