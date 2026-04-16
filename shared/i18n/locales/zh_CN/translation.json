@@ -263,7 +263,7 @@
   "Document moved": "文档已被移动",
   "Couldn’t move the document, try again?": "无法移动文档，请重试",
   "Move to <em>{{ location }}</em>": "移动到 <em>{{ location }}</em>",
-  "Couldn’t move the template, try again?": "Couldn’t move the template, try again?",
+  "Couldn’t move the template, try again?": "无法移动模板，请重试？",
   "Document options": "文档选项",
   "New": "新",
   "Only visible to you": "仅自己可见",
